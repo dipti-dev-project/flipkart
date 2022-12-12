@@ -1,2 +1,3 @@
-This file contains the deploymenty script.
+This file contains the deployment script.
+I have updated something in the first line.
 
